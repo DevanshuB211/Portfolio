@@ -498,8 +498,7 @@ flex-direction: column;
 .input{
     margin: 5px;
 }
-.done
-{
+.done{
     display: flex;
     flex-direction: row;
     justify-content: space-around;
